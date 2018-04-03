@@ -6,19 +6,18 @@
 
 ## 1.今日任务
 
-1. 参与 kaggle\getting—started 里面的3个项目：Titanic、House Prices、Digit Recognizer
+1. 参与 kaggle\getting—started 里面的3个项目：Titanic、House Prices、Digit Recognizer  
     
    (不要求有多高的score，先开始第一步)
-   项目链接：[加油啦](https://www.kaggle.com/competitions?sortBy=grouped&group=general&page=1&pageSize=20&category=gettingStarted)
+   项目链接：[加油啦](https://www.kaggle.com/competitions?sortBy=grouped&group=general&page=1&pageSize=20&category=gettingStarted)  
    
-   参考：
+   参考：  
    
+   *   [apachecn\kaggle\getting-started](https://github.com/apachecn/kaggle/tree/master/competitions/getting-started)
    
-   * [apachecn\kaggle\getting-started](https://github.com/apachecn/kaggle/tree/master/competitions/getting-started)
+   *   《Python机器学习及实践-从零开始通往Kaggle竞赛之路》
    
-   * 《Python机器学习及实践-从零开始通往Kaggle竞赛之路》
-   
-   * 《Kaggle分分钟带你杀入Top-1%(完整分析)》
+   *   《Kaggle分分钟带你杀入Top-1%(完整分析)》
 
 2. 温习Python的使用
     
