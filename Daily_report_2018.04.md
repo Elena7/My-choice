@@ -13,6 +13,7 @@
    
    参考：
    
+   
    * [apachecn\kaggle\getting-started](https://github.com/apachecn/kaggle/tree/master/competitions/getting-started)
    
    * 《Python机器学习及实践-从零开始通往Kaggle竞赛之路》
@@ -33,5 +34,4 @@
 ## 3.随笔
 
     这段时间虽然在学习机器学习相关的知识，但是东一榔头西一棒槌，很是不成体系，所以决定开始整理自己学过的知识，目的有2个:  
-    1. 温故而知新 
-    2. 规整体系，便于找工作
+    1. 温故而知新  2. 规整体系，便于找工作
